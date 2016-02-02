@@ -19,7 +19,7 @@ The structs and objects participating in this pattern are: product,
 concreate product, creator and concrete creator. The Creator contains one
 method to produce one type of product related to its type.
 
-{{< figure src="/media/golang/design-patterns/factory-method.gif" alt="Builder Class Diagram" >}}
+![alt tag](http://blog.ralch.com/media/golang/design-patterns/factory-method.gif)
 
 - `Product` defines the interface of objects the factory method creates
 - `ConcreteProduct` implements the Product interface
