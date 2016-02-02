@@ -1,4 +1,4 @@
-# Creational Desing Patterns
+# Creational Design Patterns
 
 According to [wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
 **creational design patterns** deal with object creation mechanisms. They
