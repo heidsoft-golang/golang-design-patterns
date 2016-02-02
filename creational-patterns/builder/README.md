@@ -17,7 +17,7 @@ suited for constructing different representations of the same class.
 The Builder Pattern is comprised of four components: a builder interface, a
 concrete builder, a director and a product.
 
-{{< figure src="/media/golang/design-patterns/builder.gif" alt="Builder Class Diagram" >}}
+![alt tag](http://blog.ralch.com/media/golang/design-patterns/builder.gif)
 
 - `Builder` defines a template for the steps to construct the product.
 	Specifies an abstract interface for creating parts of a Product object.
