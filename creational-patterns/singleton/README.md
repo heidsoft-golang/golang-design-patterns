@@ -15,7 +15,7 @@ not more than one instance. The same instance can be used from everywhere.
 
 #### Desing Pattern Diagram
 
-{{< figure src="/media/golang/design-patterns/singleton.gif" alt="Singleton Class Diagram" >}}
+![alt tag](http://blog.ralch.com/media/golang/design-patterns/singleton.gif)
 
 #### Implementation
 
