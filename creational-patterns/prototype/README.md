@@ -21,7 +21,7 @@ as and when needed thus reducing database calls.
 
 #### Desing Pattern Diagram
 
-{{< figure src="http://blog.ralch.com/media/golang/design-patterns/prototype.gif" alt="Prototype Class Diagram" >}}
+![alt tag](http://blog.ralch.com/media/golang/design-patterns/prototype.gif)
 
 - `Prototype` declares an interface for cloning itself
 - `ConcretePrototype` implements an operation for cloning itself
