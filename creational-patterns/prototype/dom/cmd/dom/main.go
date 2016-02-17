@@ -10,13 +10,13 @@ func main() {
 	directorNode := dom.NewElement("Director of Engineering")
 
 	engManagerNode := dom.NewElement("Engineering Manager")
-	engManagerNode.Add(dom.NewElement("Lead Software Engineer"))
+	engManagerNode.AddChild(dom.NewElement("Lead Software Engineer"))
 
-	directorNode.Add(engManagerNode)
-	directorNode.Add(engManagerNode)
+	directorNode.AddChild(engManagerNode)
+	directorNode.AddChild(engManagerNode)
 
 	officeManagerNode := dom.NewElement("Office Manager")
-	directorNode.Add(officeManagerNode)
+	directorNode.AddChild(officeManagerNode)
 
 	fmt.Println("")
 	fmt.Println("# Company Hierarchy")
