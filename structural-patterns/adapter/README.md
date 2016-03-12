@@ -20,7 +20,7 @@ the interface of each struct into an interface expected by the clients.
 The structs/objects that are participating in adapter pattern are illustrated
 in the following diagram:
 
-{{< figure src="/media/golang/design-patterns/adapter.gif" alt="Adapter Class Diagram" >}}
+![alt tag](http://blog.ralch.com/media/golang/design-patterns/adapter.gif)
 
 - `Target` is the domain-specific interface that Client wants to use.
 - `Adapter` adapts the interface `Adaptee` to the `Target` interface. It
