@@ -15,3 +15,4 @@ instances of these classes are created and put together.
 - [Singleton](https://github.com/svett/golang-design-patterns/tree/master/creational-patterns/singleton)
 - [Builder](https://github.com/svett/golang-design-patterns/tree/master/creational-patterns/builder)
 - [Factory Method](https://github.com/svett/golang-design-patterns/tree/master/creational-patterns/factory-method)
+- [Prototype](https://github.com/svett/golang-design-patterns/tree/master/creational-patterns/prototype)
