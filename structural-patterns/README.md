@@ -9,3 +9,4 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Structural_pattern):
 #### List
 
 - [Adapter](https://github.com/svett/golang-design-patterns/tree/master/structural-patterns/adapter)
+- [Bridge](https://github.com/svett/golang-design-patterns/tree/master/structural-patterns/bridge)
