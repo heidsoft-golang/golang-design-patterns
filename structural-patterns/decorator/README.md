@@ -27,7 +27,7 @@ The Decorator Pattern has the following entities:
 
 #### Implementation
 
-We are explore the use of decorator pattern via following example in
+We are exploring the use of decorator pattern via following example in
 which we will extend an existing object that fetches a data from web service.
 We will decorate it by adding circuit breaker capabilities without changing the
 struct interface.
